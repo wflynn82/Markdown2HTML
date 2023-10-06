@@ -1,4 +1,6 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 src/main/kotlin  --->   main.kt 
-I have written this program to be able to convert a basic markdown file into html. It takes in an input file that I have uploaded as 
+I have written this program to be able to convert a basic markdown file into html. It takes in an input file that I have uploaded as tester.md and the output file after the program has ran is named out.html
 
-# Markdown2HTML
